@@ -24,4 +24,4 @@ logging:
 #        cloud:
 #          openfeign: debug
 env:
-   dev2
+   dev3
