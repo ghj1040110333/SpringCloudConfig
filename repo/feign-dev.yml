@@ -24,8 +24,8 @@ logging:
 #        cloud:
 #          openfeign: debug
 env:
-   dev8
+   dev9
 #其他配置
 girl:
   name: "guo"
-  age: 22
+  age: 23
